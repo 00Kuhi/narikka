@@ -6,6 +6,6 @@ password = 'secretpassword'
 
 # Month to scrape (class name and month)
 months = [
-          {'user':'Haapaniemi 5b', 'month':'11-2022'},
-          {'user':'Haapaniemi 6b', 'month':'10-2022'},
+          {'user':'Uuspaavalniemi 5b', 'month':'11-2022'},
+          {'user':'Uuspaavalniemi 6b', 'month':'10-2022'},
          ]
