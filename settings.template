@@ -1,0 +1,11 @@
+# copy this file as 'settings.py' after modifying
+# Login information
+host = 'http://your.url.fi/'
+username = 'secretusername'
+password = 'secretpassword'
+
+# Month to scrape (class name and month)
+months = [
+          {'user':'Haapaniemi 5b', 'month':'11-2022'},
+          {'user':'Haapaniemi 6b', 'month':'10-2022'},
+         ]
