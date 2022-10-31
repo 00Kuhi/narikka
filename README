@@ -1,0 +1,21 @@
+## Installation
+
+Install python 3, pip and pipenv
+
+Create environment by running
+'pipenv install'
+
+## Running
+Start virtual environment
+'pipenv shell'
+
+Check login information is correct in settings.py file
+Start scraping
+
+'python mechlogin.py'
+
+To write to file direct output till exempel
+'python mechlogin.py > results.csv'
+
+
+
