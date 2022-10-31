@@ -10,8 +10,9 @@ Start virtual environment
 'pipenv shell'
 
 Check login information is correct in settings.py file
-Start scraping
+Settings template can be copied from settings.template file
 
+Start scraping
 'python mechlogin.py'
 
 To write to file direct output till exempel
